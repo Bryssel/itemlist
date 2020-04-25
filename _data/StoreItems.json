@@ -68,7 +68,7 @@
     },
     {
       "abr": "m7mechanisedinfantry",
-      "price": 20000,
+      "price": -10,
       "category": "Animal",
       "defname": "M7Mech"
     },
@@ -170,7 +170,7 @@
     },
     {
       "abr": "t5android",
-      "price": 13333,
+      "price": -10,
       "category": "Animal",
       "defname": "Android5Tier"
     },
@@ -266,13 +266,13 @@
     },
     {
       "abr": "tx4android",
-      "price": 11667,
+      "price": -10,
       "category": "Animal",
       "defname": "ATPP_Android4TX"
     },
     {
       "abr": "tx4iandroid",
-      "price": 11667,
+      "price": -10,
       "category": "Animal",
       "defname": "ATPP_Android4ITX"
     },
@@ -296,7 +296,7 @@
     },
     {
       "abr": "t4android",
-      "price": 10000,
+      "price": -10,
       "category": "Animal",
       "defname": "Android4Tier"
     },
@@ -332,13 +332,13 @@
     },
     {
       "abr": "tx3android",
-      "price": 9667,
+      "price": -10,
       "category": "Animal",
       "defname": "ATPP_Android3TX"
     },
     {
       "abr": "tx3iandroid",
-      "price": 9667,
+      "price": -10,
       "category": "Animal",
       "defname": "ATPP_Android3ITX"
     },
@@ -380,13 +380,13 @@
     },
     {
       "abr": "tx2kandroid",
-      "price": 9167,
+      "price": -10,
       "category": "Animal",
       "defname": "ATPP_Android2KTX"
     },
     {
       "abr": "tx2kiandroid",
-      "price": 9167,
+      "price": -10,
       "category": "Animal",
       "defname": "ATPP_Android2KITX"
     },
@@ -410,7 +410,7 @@
     },
     {
       "abr": "t3android",
-      "price": 8000,
+      "price": -10,
       "category": "Animal",
       "defname": "Android3Tier"
     },
@@ -686,13 +686,13 @@
     },
     {
       "abr": "tx2android",
-      "price": 5833,
+      "price": -10,
       "category": "Animal",
       "defname": "ATPP_Android2TX"
     },
     {
       "abr": "tx2iandroid",
-      "price": 5833,
+      "price": -10,
       "category": "Animal",
       "defname": "ATPP_Android2ITX"
     },
@@ -1400,7 +1400,7 @@
     },
     {
       "abr": "t2android",
-      "price": 4167,
+      "price": -10,
       "category": "Animal",
       "defname": "Android2Tier"
     },
@@ -1952,7 +1952,7 @@
     },
     {
       "abr": "human",
-      "price": 2917,
+      "price": -10,
       "category": "Animal",
       "defname": "Human"
     },
@@ -2390,7 +2390,7 @@
     },
     {
       "abr": "t1android",
-      "price": 2333,
+      "price": -10,
       "category": "Animal",
       "defname": "Android1Tier"
     },
@@ -16802,7 +16802,7 @@
     },
     {
       "abr": "mantodean",
-      "price": 833,
+      "price": -10,
       "category": "Animal",
       "defname": "Alien_Mantodean"
     },
@@ -17018,7 +17018,7 @@
     },
     {
       "abr": "designermate",
-      "price": 2917,
+      "price": -10,
       "category": "Animal",
       "defname": "DesignerMatesXH"
     },
@@ -17042,7 +17042,7 @@
     },
     {
       "abr": "scaleman",
-      "price": 2917,
+      "price": -10,
       "category": "Animal",
       "defname": "ScaleManXH"
     },
@@ -17054,7 +17054,7 @@
     },
     {
       "abr": "soldiermorph",
-      "price": 2917,
+      "price": -10,
       "category": "Animal",
       "defname": "SoldiermorphXH"
     },
@@ -17102,7 +17102,7 @@
     },
     {
       "abr": "wolfman",
-      "price": 2917,
+      "price": -10,
       "category": "Animal",
       "defname": "WolfManXH"
     },
@@ -17114,7 +17114,7 @@
     },
     {
       "abr": "yabil",
-      "price": 2083,
+      "price": -10,
       "category": "Animal",
       "defname": "Alien_Yabil"
     },

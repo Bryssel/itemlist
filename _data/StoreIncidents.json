@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -37,7 +37,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -62,17 +62,17 @@
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,22 +82,22 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "aurora",
-		"price": 200,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -107,12 +107,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wandererjoins",
-		"price": 250,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -141,13 +136,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 250,
 		"karmatype": "Bad"
 	},
 	{
@@ -162,12 +152,12 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "herdmigration",
-		"price": 200,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -197,7 +187,7 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -212,7 +202,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -237,22 +227,22 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,11 +262,6 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad"
 	},
@@ -326,16 +311,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -366,5 +341,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 73
+	"total": 68
 }

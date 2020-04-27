@@ -6,7 +6,7 @@ Fork Repo
 
 Upload your StoreIncidents.json and StoreItems.json
 
-C:\Users\%User%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\TwitchToolkit
+C:\Users\\%User%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\TwitchToolkit
 
 Go to Settings, scroll down to GitHub pages and set the Source to Master
 

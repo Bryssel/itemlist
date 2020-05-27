@@ -344,7 +344,12 @@
 		"abr": "passionshuffle",
 		"price": 2000,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 69
+	"total": 70
 }
